@@ -1,0 +1,16 @@
+Artificial Intelligence (AI) has evolved significantly over the past few decades. 
+Early AI systems were rule-based, meaning they followed predefined instructions and couldn’t adapt to new information. 
+However, with the rise of Machine Learning, AI began to learn from data instead of relying on fixed rules.
+
+One major breakthrough was the development of Neural Networks, which mimic the human brain. 
+These networks improved AI’s ability to recognize patterns, understand language, and generate human-like text. 
+Models like Word2Vec (2013) introduced word embeddings, allowing AI to understand word relationships better. 
+
+Later, Recurrent Neural Networks (RNNs) allowed AI to process sequential data, making them useful for language understanding. 
+However, RNNs struggled with long sentences, as they tended to forget earlier parts of the text.
+
+In 2017, Transformers changed everything. They introduced the self-attention mechanism, which helped AI focus on important words in a sentence. 
+This led to the development of GPT models, which can generate human-like responses based on the context.
+
+Today, AI-powered applications like chatbots, translation tools, and text summarization models are widely used in various industries. 
+As AI continues to advance, the future holds even more exciting possibilities!
