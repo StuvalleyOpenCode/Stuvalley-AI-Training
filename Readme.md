@@ -7,7 +7,7 @@ Welcome to the **Stuvalley-AI-Training** repository! This project serves as a co
 - [Ayushman Pranav (LinkedIn)](https://www.linkedin.com/in/ayushman-pranav/)
 
 ---
-** Connect to Our program coordinator **
+Connect to Our program coordinator
 - Artificial Intelligence Course By Prayug https://prayug.com/live-course/artificial-intelligence
 - Call [Hariom Tomar (LinkedIn)](https://www.linkedin.com/in/herrytomar/)  
 - +919599109192
@@ -167,6 +167,7 @@ Stuvalley-AI-Training/
 │
 └── Day6/
     └── Day_6_.ipynb
+```
 
 
 ## 🛠 Getting Started
