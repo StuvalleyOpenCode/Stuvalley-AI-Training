@@ -1,0 +1,5 @@
+Docwriter/
+linuxflask/
+linuxvenv/
+__pycache__/
+.git/
