@@ -1,10 +1,7 @@
 # Stuvalley-AI-Training
 
 Welcome to the **Stuvalley-AI-Training** repository! This project serves as a comprehensive training ground for artificial intelligence (AI) and machine learning concepts. It is designed as a multi-day course where each day covers new topics, tools, and practical projects—from introductory presentations and sample codes to advanced projects like hosting deep learning applications with Docker and EC2.
-
-**Training by:** [Prayug](https://prayug.com/live-course/artificial-intelligence)  (A StuvalleyTechnology Brand)  
-- [Gowtham T. (LinkedIn)](https://www.linkedin.com/in/gowtham-4959311b1/)  
-- [Ayushman Pranav (LinkedIn)](https://www.linkedin.com/in/ayushman-pranav/)
+![compress DALL·E 2025-03-08 13 38 57  - Copy-min](https://github.com/user-attachments/assets/b3494c55-5912-4e8a-81f7-58f24553cc5e)
 
 ---
 Connect to Our program coordinator
@@ -13,8 +10,6 @@ Connect to Our program coordinator
 - +919599109192
 
 Each day is engineered to build both conceptual understanding and hands-on skills, making this training program a robust, technical starting point for anyone serious about entering the field of AI and Machine Learning.
-
----
 
 ## Overview
 
@@ -150,7 +145,9 @@ This training program is designed to provide an in-depth, technical foundation i
 Each day is engineered to build both conceptual understanding and hands-on skills, making this training program a robust, technical starting point for anyone serious about entering the field of AI and Machine Learning.
 
 ---
-
+**Training by:** [Prayug](https://prayug.com/live-course/artificial-intelligence)  (A StuvalleyTechnology Brand)  
+- [Gowtham T. (LinkedIn)](https://www.linkedin.com/in/gowtham-4959311b1/)  
+- [Ayushman Pranav (LinkedIn)](https://www.linkedin.com/in/ayushman-pranav/)
 
 ## Repository Structure
 
