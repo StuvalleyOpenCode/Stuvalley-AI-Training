@@ -1,6 +1,7 @@
 # Stuvalley-AI-Training
 
-Welcome to the **Stuvalley-AI-Training** repository! This project serves as a comprehensive training ground for artificial intelligence (AI) and machine learning concepts. It is designed as a multi-day course where each day covers new topics, tools, and practical projects—from introductory presentations and sample codes to advanced projects like hosting deep learning applications with Docker and EC2.
+- Welcome to the **Stuvalley-AI-Training** repository! This project serves as a comprehensive training ground for artificial intelligence (AI) and machine learning concepts. It is designed as a multi-day course where each day covers new topics, tools, and practical projects—from introductory presentations and sample codes to advanced projects like hosting deep learning applications with Docker and EC2.
+
 ![compress DALL·E 2025-03-08 13 38 57  - Copy-min](https://github.com/user-attachments/assets/aa977acf-50cb-4fc4-b234-dc7560caeeb1)
 ---
 Connect to Our program coordinator
