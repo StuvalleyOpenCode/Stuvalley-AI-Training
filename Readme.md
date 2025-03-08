@@ -89,37 +89,57 @@ This training program is designed to provide an in-depth, technical foundation i
   - Discussion on the architecture and optimization of vector search engines.
 
 ---
+### 📌 **Day 5: AI Project Analysis & Model Evaluation**  
 
-### 📌 **Day 5: AI Project Analysis**
+#### **Presentation & Notebook:**  
+- Comprehensive review of the AI project lifecycle, covering data collection, preprocessing, model selection, and evaluation.  
+- Deep dive into performance metrics such as RMSE, MAE, precision, recall, and interpretability of models.  
 
-- **Presentation & Notebook:**  
-  - Comprehensive review of AI project lifecycle from data collection to model evaluation.
-  - Detailed presentation on performance metrics such as RMSE, MAE, precision, recall, and other evaluation criteria.
-  
-- **Technical Analysis:**  
-  - In-depth discussion on model validation techniques and statistical significance.
-  - Evaluation methods for both collaborative and content-based recommendation systems.
-  - Case study analysis that includes performance trade-offs and model interpretability.
+#### **Technical Analysis:**  
+#### **Recommendation System Evaluation:**  
+- Comparative study of **collaborative filtering** (user-based and item-based) vs. **content-based filtering**.  
+- Performance trade-offs and selection of optimal approaches based on RMSE and precision-recall metrics.  
 
-- **Practical Components:**  
-  - Hands-on exercises to analyze project data, perform error analysis, and interpret model results.
-  - Comparison of different modeling approaches with technical justification for the chosen methodologies.
+#### **LangChain & AI-Powered PDF Processing:**  
+- Hands-on demonstration of **PDF data extraction** using LangChain and OpenAI embeddings.  
+- Exploration of **similarity search** and **query-based document retrieval** using FAISS.  
+
+### **Practical Components:**  
+- Hands-on exercises in **error analysis, data cleaning, and performance benchmarking**.  
+- **Comparison of multiple model architectures** to justify the best fit for AI-driven recommendation systems.  
+- **Implementation of LangChain-based AI document processing** for research-based queries and automation.  
 
 ---
 
-### 📌 **Day 6: Advanced AI Modeling**
+### 📌 Day 6: Advanced AI Modeling
 
-- **Notebook:**  
-  - Exploration of complex model architectures including deep neural networks and transformer-based models.
-  - Detailed examples of how to implement and fine-tune advanced models using modern frameworks.
-  
-- **Technical Focus:**  
-  - Advanced topics such as hyperparameter optimization, transfer learning, and ensemble methods.
-  - In-depth discussion on the theoretical underpinnings of deep learning, including backpropagation, regularization techniques, and optimization algorithms.
-  
-- **Real-World Applications:**  
-  - Application of advanced models to real datasets with performance benchmarking.
-  - Discussion on deployment challenges and strategies for scaling deep learning applications.
+#### 📝 Notebook Overview
+- Exploration of complex model architectures, including deep neural networks and transformer-based models.
+- Detailed examples of implementing and fine-tuning advanced models using modern frameworks.
+
+##### 🔬 Technical Focus
+1️⃣ Prompting Techniques in LLMs
+- **Zero-Shot Prompting**: Directly querying the model without examples.
+- **Few-Shot Prompting**: Providing examples to guide the model.
+- **Chain-of-Thought (CoT) Prompting**: Encouraging step-by-step reasoning.
+- **Role-Based Prompting**: Assigning a persona (e.g., "You are a history professor").
+- **Instruction-Based Prompting**: Giving structured instructions for precise outputs.
+- **Multimodal Prompting**: Combining text and images (`gpt-4-vision-preview`).
+- **Self-Consistency Prompting**: Generating multiple responses and selecting the best.
+
+2️⃣ Deep Learning Concepts
+- **Hyperparameter Optimization**: Techniques like Grid Search and Bayesian Optimization.
+- **Transfer Learning**: Fine-tuning pre-trained models for domain-specific tasks.
+- **Ensemble Methods**: Using multiple models to improve accuracy.
+- **Backpropagation**: Understanding how neural networks learn.
+- **Regularization Techniques**: Dropout, batch normalization, and L2 regularization.
+- **Optimization Algorithms**: Adam, RMSprop, and Stochastic Gradient Descent (SGD).
+
+3️⃣ Real-World Applications
+- **Performance Benchmarking**: Evaluating models with accuracy, precision, recall, and F1-score.
+- **Deployment Challenges**: Strategies for optimizing deep learning applications in production.
+- **Scaling AI Models**: Handling large datasets, distributed training, and inference optimization.
+- **Multimodal AI**: Processing both text and images for richer AI applications.
 
 ---
 ** Connect to Our program coordinator **
